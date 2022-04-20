@@ -261,18 +261,86 @@
               </tr>
             </table>
 
-            <br><br>
+            <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+              <tr>
+                <td style="padding:10px;width:25%;vertical-align:middle">
+                  <heading>Miscellaneous</heading>
+                  <p>
+                    I was a semi-professional chess player.
+                  </p>
+                </td>
+              </tr>
+            </table>
 
             <footer class="fixed-bottom">
               <center>
-                <div id="counter"></div>
+                <div class="f-pr-heading-wrapper">
+                  <span>This page has been visited</span> <a href="" class="f-pushdown-header f-pushdown-header-pushDown"
+                    title="HOVER ME">
+                    <div id="counter"></div>
+                  </a> <span>times.</span>
+                </div>
+                <script>
+                  let count = parseInt(localStorage.getItem('visitorCounter') || '0');
+                  count++;
+                  localStorage.setItem('visitorCounter', count);
+                  document.getElementById('counter').innerHTML = count;
+                </script>
+
+                <style>
+                  .f-pr-heading-wrapper {
+                    width: 100%;
+                    text-align: center;
+                    /*padding: 10px;*/
+                    background-color: #00BFFF;
+                    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ffffff), to(#ffffff));
+                  }
+
+                  /* PUSH DOWN */
+                  .f-pushdown-header {
+                    display: inline-block;
+                    text-align: center;
+                    font-family: 'Francois One', Helvetica, Arial, sans-serif;
+                    font-size: 1rem;
+                    color: #ffffff;
+                    text-decoration: none;
+                    transition: all 400ms ease-in-out;
+                  }
+
+                  .f-pushdown-header-pushDown {
+                    text-shadow: 1.5px 1.5px 0 #333, 0px 1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px 1.5px 0 #333, 1.5px -1.5px 0 #333, 0.77782px 0.77782px 0 #aaaaaa, 1.55563px 1.55563px 0 #aaaaaa, 2.33345px 2.33345px 0 #aaaaaa, 3.11127px 3.11127px 0 #aaaaaa, 3.88909px 3.88909px 0 #aaaaaa, 4.6669px 4.6669px 0 #aaaaaa, 5.44472px 5.44472px 0 #aaaaaa, 6.22254px 6.22254px 0 #aaaaaa, 7.00036px 7.00036px 0 #aaaaaa, 7.77817px 7.77817px 0 #aaaaaa;
+                  }
+
+                  .f-pushdown-header-pushDown:hover {
+                    color: #0d6aad;
+                    transform: translate(10px, 0);
+                    text-shadow: 1.5px 1.5px 0 #aaaaaa, -1.5px -1.5px 0 #aaaaaa, -1.5px -1.5px 0 #aaaaaa, -1.5px 1.5px 0 #aaaaaa, 1.5px -1.5px 0 #aaaaaa;
+                  }
+
+                  /* RAISE UP */
+                  .f-raiseup-header {
+                    display: inline-block;
+                    text-align: center;
+                    font-family: 'Francois One', Helvetica, Arial, sans-serif;
+                    font-size: 1rem;
+                    color: #e7e7e7;
+                    text-decoration: none;
+                    transition: all 400ms ease-in-out;
+                  }
+
+                  .f-raiseup-header-pushDown {
+                    text-shadow: 1.5px 1.5px 0 #cac6c5, -1.5px -1.5px 0 #cac6c5, -1.5px -1.5px 0 #cac6c5, -1.5px 1.5px 0 #cac6c5, 1.5px -1.5px 0 #cac6c5;
+                  }
+
+                  .f-raiseup-header-pushDown:hover {
+                    color: #0d6aad;
+                    transform: translate(10px, 0);
+                    text-shadow: 1.5px 1.5px 0 #333, 0px 1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px -1.5px 0 #333, -1.5px 1.5px 0 #333, 1.5px -1.5px 0 #333, 0.77782px 0.77782px 0 #aaaaaa, 1.55563px 1.55563px 0 #aaaaaa, 2.33345px 2.33345px 0 #aaaaaa, 3.11127px 3.11127px 0 #aaaaaa, 3.88909px 3.88909px 0 #aaaaaa, 4.6669px 4.6669px 0 #aaaaaa, 5.44472px 5.44472px 0 #aaaaaa, 6.22254px 6.22254px 0 #aaaaaa, 7.00036px 7.00036px 0 #aaaaaa, 7.77817px 7.77817px 0 #aaaaaa;
+
+                  }
+                </style>
               </center>
-              <script>
-                let count = parseInt(localStorage.getItem('visitorCounter') || '0');
-                count++;
-                localStorage.setItem('visitorCounter', count);
-                document.getElementById('counter').innerHTML = "This page has been visited " + count + " times.";
-              </script>
+              <br>
               <center>
                 <div align="center" style="width:20%">
                   <script type="text/javascript" id="clstr_globe"
