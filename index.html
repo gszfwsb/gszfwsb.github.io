@@ -43,7 +43,6 @@
 
               <p style="text-align:center">
                 <a href="mailto:181110315@stu.hit.edu.cn"><i class="icon-envelope"></i></a> &nbsp
-                <!-- <a href="CV_Tingle_Li.pdf"><i class="ai ai-cv"></i></a> &nbsp -->
                 <a href="https://scholar.google.co.in/citations?hl=zh-CN&user=viFDWtwAAAAJ"><i
                     class="ai ai-google-scholar"></i></a> &nbsp
                 <a href="https://github.com/gszfwsb"><i class="icon-github"></i></a> &nbsp
@@ -81,18 +80,50 @@
         </tbody>
       </table>
 
-      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <table width="100%" align="center" border="0" cellspacing="0">
         <tr>
           <td style="padding:20px;width:25%;vertical-align:middle">
             <heading>Selected Publications</heading>
           </td>
         </tr>
+        <tr onmouseout="trap_stop()" onmouseover="trap_start()"
+          bgcolor="#ffffd0">
+          <td style="padding:20px;width:40%;vertical-align:middle">
+            <div class="one">
+              <img src='images/trap_overview.jpg' width="260">
+            </div>
+            <script type="text/javascript">
+              function trap_start() {
+                document.getElementById('trap').style.opacity = "1";
+              }
+
+              function trap_stop() {
+                document.getElementById('trap').style.opacity = "0";
+              }
+              trap_stop()
+            </script>
+          </td>
+          <td width="60%" valign="middle">
+            <a href="https://arxiv.org/abs/2112.00980">
+              <papertitle> Trap of Feature Diversity in the Learning of MLPs </papertitle>
+            </a>
+            <br>
+            Dongrui Liu*, <b>Shaobo Wang*</b>, <a href="https://jie-ren.github.io/">Jie Ren</a>,<br> Sheng Yin, Kangrui Wang, <a
+              href="https://qszhang.com/">Quanshi Zhang</a>
+            <br>
+            <em>arxiv</em>, preprint &nbsp
+            <br>
+            <a href="https://arxiv.org/pdf/2112.00980.pdf">PDF</a>
+            <p>Explain the fundamental 2-phase optimization problem of learning dynamic of MLPs. </p>
+          </td>
+        </tr>
+
         <tr onmouseout="visualization_stop()" onmouseover="visualization_start()">
           <!-- bgcolor="#ffffd0"> -->
           <td style="padding:20px;width:40%;vertical-align:middle">
             <div class="one">
-              <div class="two" id='visualization'><img src='images/knowledge-points.gif' width=230></div>
-              <img src='images/visualization-knowledge.png' width=230>
+              <div class="two" id='visualization'><img src='images/visualization-overview.gif' width=260></div>
+              <img src='images/visualization-static.png' width=260>
             </div>
             <script type="text/javascript">
               function visualization_start() {
@@ -106,29 +137,23 @@
             </script>
           </td>
           <td width="60%" valign="middle">
-            <a href="https://proceedings.neurips.cc/paper/2021/file/33ebd5b07dc7e407752fe773eed20635-Paper.pdf">
+            <a href="https://arxiv.org/abs/2111.03505">
               <papertitle> Visualizing the Emergence of Intermediate Visual Patterns in DNNs </papertitle>
             </a>
             <br>
-            <a href="https://huchenxucs.github.io/">Mingjie Li</a>, <b>Shaobo Wang</b>, <a
+            <a href="http://mingjie.site/">Mingjie Li</a>, <b>Shaobo Wang</b>, <a
               href="https://qszhang.com/">Quanshi Zhang</a>
             <br>
             <em>NeurIPS</em>, 2021 &nbsp
             <br>
-            <a href="https://proceedings.neurips.cc/paper/2021/file/33ebd5b07dc7e407752fe773eed20635-Paper.pdf">PDF</a>
-            /
-            <!-- <a href="https://tsinghua-mars-lab.github.io/NeuralDubber/">Project Page</a> / -->
+            <a href="https://proceedings.neurips.cc/paper/2021/file/33ebd5b07dc7e407752fe773eed20635-Paper.pdf">PDF </a> /
             <a href="https://github.com/LMJJJJJJ/nn-visualizer">Code</a> /
             <a href="https://www.zhihu.com/zvideo/1433602733882990593">Video</a>
-            <p></p>
             <p>Visualizing the knowledge learned by the Intermediate Visual Patterns in DNNs temporally and
               spatially. </p>
           </td>
         </tr>
-
-
-
-
+        
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="12">
           <tr>
             <td style="padding:10px;width:25%;vertical-align:middle">
@@ -284,7 +309,7 @@
       <center>
         <p id="ymd">
           <script>
-            document.getElementById("ymd").innerHTML = "© Copyright " + new Date().getFullYear() + "\n Shaobo Wang. Last updated: " + new Date().toDateString() + ". ";
+            document.getElementById("ymd").innerHTML = "© Copyright " + new Date().getFullYear() + "\n Shaobo Wang.";
           </script>
           Thanks for the template from <a href="https://jonbarron.info/">Jon Barron</a>.
         </p>
