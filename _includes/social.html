@@ -40,6 +40,9 @@
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
             {% endif %}
+            {%- if site.resume -%}
+            <a href="./assets/pdf/{{ site.resume }}" title="CV"><i class="ai ai-cv"></i></a>
+            {% endif %}
             {%- if site.mastodon_username -%}
             <a rel="me" href="https://{{ site.mastodon_username  }}" title="Mastodon"><i class="fab fa-mastodon"></i></a>
             {% endif %}
