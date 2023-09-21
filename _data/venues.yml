@@ -1,3 +1,11 @@
-"Neurips":
-  color: "#FFCC70"
+"NeurIPS":
+  color: "#0099e5"
 
+"ICML":
+  color: "#ff4c4c"
+
+"ICLR":
+  color: "#34bf49"
+
+"arXiv":
+  color: "#9f9fa3"
