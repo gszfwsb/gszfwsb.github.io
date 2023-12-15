@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/201) in 2022.
 
-<i class="fa-light fa-face-smile" style="color: #1a57c1;"></i> My research spans around trustworthy artificial intelligence and its real-world applications. My encounter with XAI crystallized my long-term research goals, which include:
-• Discovering and probing key features in the learning of DNNs.
-• Conducting theoretically supported post hoc analysis of DNNs to detect errors.
-• Designing inherently explainable networks that maintain strong performance.
+My research spans around trustworthy artificial intelligence and its real-world applications. My long-term research goal includes:
+1. Discovering, probing, and boosting key features/neurons in the learning of DNNs.
+2. Conducting theoretically principled post-hoc analysis of DNNs for debugging.
+3. Designing inherently explainable networks that maintain strong performance.
 
 
-I am always open for possible collaborations, and am looking for **visiting and Ph.d. opportunities**, if you are interested, please do not hesitate to contact me!
+I am always open for possible collaborations, and am looking for **visiting, interning, and Ph.d. opportunities**, if you are interested, please do not hesitate to contact me!
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
