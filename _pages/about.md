@@ -29,7 +29,7 @@ My research spans around trustworthy artificial intelligence and its real-world 
 3. Design self-explainable DNNs that maintain strong performance in real scenarios.
 
 ### Services
-Reviwer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, ACL 2023
+Reviewer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, ACL 2023
 
 ### Contact
 I am always open for possible collaborations, and am looking for **visiting, interning, and Ph.d. opportunities**, if you are interested, please do not hesitate to contact me!
