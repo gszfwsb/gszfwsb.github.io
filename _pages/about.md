@@ -22,10 +22,9 @@ social: true  # includes social icons at the bottom of the page
 I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/201) in 2022.
 
 My research spans around trustworthy artificial intelligence and its real-world applications. My long-term research goal includes:
-1. Discovering, probing, and boosting key features/neurons in the learning of DNNs.
-2. Conducting theoretically principled post-hoc analysis of DNNs for debugging.
-3. Designing inherently explainable networks that maintain strong performance.
-
+1. Discover, probe, and boost key features/neurons in the learning of deep neural networks (DNNs).
+2. Conduct theoretically principled post-hoc analysis of DNNs for debugging.
+3. Design self-explainable DNNs that maintain strong performance in real scenarios.
 
 I am always open for possible collaborations, and am looking for **visiting, interning, and Ph.d. opportunities**, if you are interested, please do not hesitate to contact me!
 
