@@ -24,6 +24,8 @@ I am now a second-year master's student at [Department of Computer Science and E
 
 #### Research Goal
 My research is centered on the realms of trustworthy machine learning and computer vision. I aim to explore the core principles of deep neural networks (DNNs) within real-world applications, investigating their fundamental characteristics through a theoretical lens.
+
+
 <!-- My long-term research goal includes:
 1. Discover, probe, and boost key features/neurons in the learning of deep neural networks (DNNs).
 2. Conduct theoretically principled post-hoc analysis of DNNs for debugging.
