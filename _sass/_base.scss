@@ -149,6 +149,25 @@ blockquote {
   }
 }
 
+
+.post-header {
+    display: flex;
+    align-items: center; /* This ensures vertical alignment in the middle */
+    justify-content: space-between; /* This spaces out the profile and title */
+  }
+  
+  .profile-section {
+    flex: 1; /* Allows the profile section to grow as needed */
+    max-width: 30%; /* Adjust based on your preference */
+  }
+  
+  .title-section {
+    flex: 2; /* Gives the title section more room to grow than the profile */
+  }
+  
+  /* Keep your existing .profile and other related CSS, adjusting as necessary for alignment and spacing */
+  
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

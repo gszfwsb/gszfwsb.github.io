@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
+subtitle:> CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
 <p>Mail: shaobowang1009@sjtu.edu.cn</p>
 <p>Tel: (+86) 15000937315</p>
 <p>City: Shanghai, 200240</p>
