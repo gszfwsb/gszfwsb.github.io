@@ -39,7 +39,7 @@ I am always open for possible collaborations and discussions. If you have any qu
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-Currently, I am looking for Ph.d. opportunities in machine learning and computer vision in 2025 Fall.
+I am open to both on-site and remote internships in Machine Learning and Computer Vision, and am seeking Ph.D. opportunities for Fall 2025 to complement my practical experiences.
 </div>
 
 
