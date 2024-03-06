@@ -3,15 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
+<p>Mail: shaobowang1009@sjtu.edu.cn</p>
+<p>Tel: (+86) 15000937315</p>
+<p>City: Shanghai, 200240</p>
 
 profile:
   align: right
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Mail: shaobowang1009@sjtu.edu.cn</p>
-    <p>Tel: (+86) 15000937315</p>
-    <p>City: Shanghai, 200240</p>
+  address: false
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

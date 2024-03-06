@@ -114,72 +114,40 @@ blockquote {
 
 // Profile
 
-// .profile {
-//   width: 100%;
-
-//   .address {
-//     margin-bottom: 5px;
-//     margin-top: 5px;
-//     font-family: monospace;
-
-//     p {
-//       display: inline-block;
-//       margin: 0;
-//     }
-//   }
-// }
-
-
-
-
-
-
 .profile {
-    flex: 0 1 30%; /* Allows the profile to grow up to 30% of the header width, but not shrink */
-    margin: 0 1rem; /* Adds a margin to the left and right for spacing */
-}
+  width: 100%;
 
-
-.profile.float-right {
-  margin-left: auto;
-}
-
-.profile.float-left {
-  margin-right: auto;
-}
-
-.address {
+  .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-}
-  
-.address p {
-    display: inline-block; /* Default style, adjust if necessary */
-    margin: 0;
-}
 
-
-@media (min-width: 576px) {
-    .profile {
-      /* Adjusted width for larger screens to 30% of the header */
-    }
-  
-    .address p {
-      display: block; /* Makes each part of the address display on its own line on larger screens */
+    p {
+      display: inline-block;
+      margin: 0;
     }
   }
-// @media (min-width: 576px) {
-//   .profile {
-//     width: 30%;
+}
 
-//     .address {
-//       p {
-//         display: block;
-//       }
-//     }
-//   }
-// }
+.profile.float-right {
+  margin-left: 1rem;
+}
+
+.profile.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .profile {
+    width: 30%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+}
 
 .post-description {
   margin-bottom: 2rem;
