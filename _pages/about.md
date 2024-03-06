@@ -9,7 +9,7 @@ profile:
   align: right
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
-  address: > 
+  more_info: > 
     <p>Mail: shaobowang1009@sjtu.edu.cn</p>
     <p>Tel: (+86) 15000937315</p>
     <p>City: Shanghai, 200240</p>
