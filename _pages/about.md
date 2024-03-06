@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 #### About Me
-I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/201) in 2022.
+I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022.
 
 #### Research Goal
 My research is centered on the realms of trustworthy machine learning and computer vision. I aim to explore the core principles of deep neural networks (DNNs) within real-world applications, investigating their fundamental characteristics through a theoretical lens.
