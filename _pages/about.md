@@ -39,8 +39,8 @@ Reviewer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, AC
 I am always open for possible collaborations and discussions. If you have any questions, you are free to contact me via my email. 
 
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-I am open to both on-site and remote internships in Machine Learning and Computer Vision, and am seeking Ph.D. opportunities for Fall 2025 to achieve my academic goals.
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
+ I am open to both <span style='color:#ea3891'> on-site and remote internships </span> in Machine Learning and Computer Vision, and am seeking <span style='color:#ea3891'> Ph.D. opportunities </span> in Fall 2025 to achieve my academic goals.
 </div>
 
 
