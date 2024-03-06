@@ -5,7 +5,7 @@ permalink: /
 subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
 
 profile:
-  align: right
+  align: left
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -39,7 +39,7 @@ I am always open for possible collaborations and discussions. If you have any qu
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-I am open to both on-site and remote internships in Machine Learning and Computer Vision, and am seeking Ph.D. opportunities for Fall 2025 to complement my practical experiences.
+I am open to both on-site and remote internships in Machine Learning and Computer Vision, and am seeking Ph.D. opportunities for Fall 2025 to achieve my academic goals.
 </div>
 
 
