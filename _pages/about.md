@@ -23,16 +23,17 @@ social: true  # includes social icons at the bottom of the page
 I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/201) in 2022.
 
 #### Research Goal
-My research spans around trustworthy artificial intelligence and its real-world applications. My long-term research goal includes:
+My research is centered on the realms of trustworthy machine learning and computer vision. I aim to explore the core principles of deep neural networks (DNNs) within real-world applications, investigating their fundamental characteristics through a theoretical lens.
+<!-- My long-term research goal includes:
 1. Discover, probe, and boost key features/neurons in the learning of deep neural networks (DNNs).
 2. Conduct theoretically principled post-hoc analysis of DNNs for debugging.
-3. Design self-explainable DNNs that maintain strong performance in real scenarios.
+3. Design self-explainable DNNs that maintain strong performance in real scenarios. -->
 
 #### Services
 Reviewer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, ACL 2023
 
 #### Contact
-I am always open for possible collaborations, and am looking for **visiting, interning, and Ph.d. opportunities**, if you are interested, please do not hesitate to contact me!
+I am always open for possible collaborations, and am looking for **visiting, interning, and Ph.d. opportunities in 2025 Fall**, if you are interested, please do not hesitate to contact me via my email!
 
 <!-- #### Miscellaneous
 My journey towards the world of artificial intelligence began in my adolescence as a semi-professional chess player. At the age of 12, I learned about the legendary Garry Kasparov’s defeat by the AI “Deep Blue.” This was my first brush with the awe-inspiring capabilities of AI. Years later, my fascination deepened when DeepMind’s AlphaGo conquered the world champion in Go, further igniting my curiosity about the mechanisms behind these “world champion” AIs. During my undergraduate studies, I was introduced to the fundamentals of machine learning, which led to an intrinsic problem: beyond basic statistical models, deep learning models remained mysterious to us. Deep Learning seems more like empirical evidence than rigorous science. A question appeared in my mind: how can we interpret these “black box” models, or better yet, design “white box” models? This journey from a young chess enthusiast to an aspiring AI researcher has been driven by the mystery of deep neural networks for understanding and a deep commitment to making AI more trustworthy and reliable. -->
