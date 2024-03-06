@@ -5,7 +5,7 @@ permalink: /
 subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
 
 profile:
-  align: left
+  align: top
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   address: >
