@@ -37,7 +37,7 @@ Reviewer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, AC
 #### Contact
 I am always open for possible collaborations. If you have any questions, you are free to contact me via my email. 
 
-Currently, I looking for **visiting, interning, and Ph.d. opportunities in 2025 Fall**.
+> Currently, I looking for **visiting, interning, and Ph.d. opportunities in 2025 Fall**.
 
 
 <!-- #### Miscellaneous
