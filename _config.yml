@@ -276,8 +276,8 @@ display_categories: ['Reinforcement-Learning'] # these categories will be displa
 
 scholar:
 
-  last_name: [Shaobo]
-  first_name: [Wang]
+  last_name: [Wang]
+  first_name: [Shaobo]
 
   style: apa
   locale: en
