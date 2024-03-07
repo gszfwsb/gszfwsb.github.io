@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
 

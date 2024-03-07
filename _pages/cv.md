@@ -1,9 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Resume
 nav: false
-nav_order: 4
+nav_order: 3
 cv_pdf: cv_en_shaobowang.pdf
 description:
 toc:
