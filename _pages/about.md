@@ -20,10 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-#### About Me
-I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022.
+I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022. I spent wonderful years during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) during my undergraduate years.
 
-#### Research Goal
 My research is centered on the realms of trustworthy machine learning and computer vision. I aim to explore the core principles of deep neural networks (DNNs) within real-world applications, investigating their fundamental characteristics through a theoretical lens.
 
 
@@ -31,13 +29,7 @@ My research is centered on the realms of trustworthy machine learning and comput
 1. Discover, probe, and boost key features/neurons in the learning of deep neural networks (DNNs).
 2. Conduct theoretically principled post-hoc analysis of DNNs for debugging.
 3. Design self-explainable DNNs that maintain strong performance in real scenarios. -->
-
-#### Services
-Reviewer: ICML 2022-2024, NeurIPS 2022-2023, CVPR 2023-2024, EMNLP 2022-2023, ACL 2023
-
-#### Contact
 I am always open for possible collaborations and discussions. If you have any questions, please feel free to drop me a message via my E-mail/Wechat/Twitter(X). 
-
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
 I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
