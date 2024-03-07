@@ -32,7 +32,7 @@ My research is centered on the realms of trustworthy machine learning and comput
 I am always open for possible collaborations and discussions. If you have any questions, please feel free to drop me a message via my E-mail/Wechat/Twitter(X). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
-I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
+Currently, I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
 </div>
 
 
