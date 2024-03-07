@@ -2,8 +2,8 @@
 layout: default
 ---
 <script type="module">
-  import { followingDotCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
-  new followingDotCursor({ color: ["#d7eaf5"] });
+  import { snowflakeCursor } from "https://unpkg.com/cursor-effects@latest/dist/esm.js";
+  new snowflakeCursor({ color: ["#d7eaf5"] });
 </script>
 
 
@@ -65,8 +65,9 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
+      * denotes the equal contribution.
       {% include selected_papers.liquid %}
     {% endif %}
 
