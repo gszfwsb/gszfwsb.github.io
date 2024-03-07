@@ -40,7 +40,7 @@ I am always open for possible collaborations and discussions. If you have any qu
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
- I am now open to both <span style='color:#ea3891'> on-site and remote internships </span> in Machine Learning and Computer Vision, and am seeking <span style='color:#ea3891'> Ph.D. opportunities </span> in Fall 2025 to achieve my academic goals.
+I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
 </div>
 
 
