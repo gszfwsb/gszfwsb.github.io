@@ -41,9 +41,9 @@ Beyond academia, I have a rich background in the arts and sports. I've been play
 </details>
 
 <br> -->
-Beyond academia, I have a rich background in the arts and sports. I've been playing the piano for over a decade and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. My interests also extend to detective and historical novels, and the intriguing world of magic cubes.
+Beyond academia, I've been playing the piano for over a decade and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes.
 
-I am keen on collaborating and engaging in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter.
+I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter (X).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
 Currently, I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
