@@ -7,7 +7,7 @@ subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab<
 
 profile:
   align: right
-  image: avatar.jpg
+  image: wsb.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
     <p>Mail: gszfwsb@gmail.com</p>
