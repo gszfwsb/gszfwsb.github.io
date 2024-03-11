@@ -20,20 +20,42 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- <h2>
+    Background
+</h2> -->
 I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years.
 
-My research is centered on the realms of trustworthy machine learning and computer vision. I aim to explore the core principles of deep neural networks (DNNs) within real-world applications, investigating their fundamental characteristics through a theoretical lens.
+My research focuses on trustworthy machine learning and computer vision. I am dedicated to uncovering the fundamental aspects of deep neural networks (DNNs) and applying these insights to real-world applications through a theoretical perspective.
 
 
 <!-- My long-term research goal includes:
 1. Discover, probe, and boost key features/neurons in the learning of deep neural networks (DNNs).
 2. Conduct theoretically principled post-hoc analysis of DNNs for debugging.
 3. Design self-explainable DNNs that maintain strong performance in real scenarios. -->
-I am always open for possible collaborations and discussions. If you have any questions, please feel free to drop me a message via my E-mail/Wechat/Twitter(X). 
+
+
+<!-- <details>
+<summary> <span style='color:#ea3891'>Miscellaneous: More about me</span></summary>
+Beyond academia, I have a rich background in the arts and sports. I've been playing the piano for over a decade and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmasters <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. My interests also extend to detective and historical novels, and the intriguing world of magic cubes.
+
+</details>
+
+<br> -->
+Beyond academia, I have a rich background in the arts and sports. I've been playing the piano for over a decade and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. My interests also extend to detective and historical novels, and the intriguing world of magic cubes.
+
+I am keen on collaborating and engaging in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
 Currently, I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
 </div>
+
+
+<!-- <h2>
+    Miscellaneous: More about me
+</h2> -->
+
+
+<!-- I have played the piano for more than 10 years, and was fortunate to co-played with greatest pianist [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang) years ago. During my teenage years, I held won multiple Chess championships in Anhui Province, China, under the supervision of chess grandmaster [Chongsheng Zeng](https://en.wikipedia.org/wiki/Zeng_Chongsheng) and Yongjin Zhou. While my roots are in classical music, my musical tastes lean towards R&B and Neo-Soul. Beyond music and chess, my curiosity extends to detective and historical narratives, as well as the complex world of Magic Cubes. I can solve more than 10 kinds of cubes ($$n\times n$$, Megaminx, Pyraminx, Skewb, Square $$n$$, etc). -->
 
 
 <!-- #### Miscellaneous
