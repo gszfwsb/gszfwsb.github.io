@@ -6,7 +6,7 @@ subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab<
 
 
 profile:
-  align: right
+  align: left
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
@@ -43,18 +43,22 @@ Beyond academia, I have a rich background in the arts and sports. I've been play
 </details>
 
 <br> -->
+<!-- <h2>
+    Miscellaneous: More about me
+</h2> -->
+👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter (X).
+
+
+
 Beyond academia, I've been playing the piano for over 10 years and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes.
 
-I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter (X).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
 Currently, I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
 </div>
 
 
-<!-- <h2>
-    Miscellaneous: More about me
-</h2> -->
+
 
 
 <!-- I have played the piano for more than 10 years, and was fortunate to co-played with greatest pianist [Lang Lang](https://en.wikipedia.org/wiki/Lang_Lang) years ago. During my teenage years, I held won multiple Chess championships in Anhui Province, China, under the supervision of chess grandmaster [Chongsheng Zeng](https://en.wikipedia.org/wiki/Zeng_Chongsheng) and Yongjin Zhou. While my roots are in classical music, my musical tastes lean towards R&B and Neo-Soul. Beyond music and chess, my curiosity extends to detective and historical narratives, as well as the complex world of Magic Cubes. I can solve more than 10 kinds of cubes ($$n\times n$$, Megaminx, Pyraminx, Skewb, Square $$n$$, etc). -->
