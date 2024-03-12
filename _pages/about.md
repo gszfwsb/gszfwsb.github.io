@@ -23,7 +23,9 @@ social: true  # includes social icons at the bottom of the page
 <!-- <h2>
     Background
 </h2> -->
-I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years.
+<!-- I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years. -->
+
+I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years.
 
 My research focuses on trustworthy machine learning and computer vision. I am dedicated to uncovering the fundamental aspects of deep neural networks (DNNs) and applying these insights to real-world applications through a theoretical perspective.
 
