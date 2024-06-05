@@ -48,7 +48,11 @@ Beyond academia, I have a rich background in the arts and sports. I've been play
     Miscellaneous: More about me
 </h2> -->
 
-👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me!
+👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to <a href='mailto:gszfwsb@gmail.com'> contact me </a>!
+
+<!-- linke to cv -->
+[(Enligh CV)](/assets/pdf/cv_en_shaobowang.pdf) | [(中文简历)](/assets/pdf/cv_zh_shaobowang.pdf)
+
 
 <!-- Beyond academia, I've been playing the piano for over 10 years and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes. -->
 
