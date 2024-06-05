@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: CS Master Student @ <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>
+subtitle: Master Student, <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>, Shanghai Jiao Tong University
 
 
 profile:
-  align: left
+  align: right
   image: avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
@@ -25,9 +25,10 @@ social: true  # includes social icons at the bottom of the page
 </h2> -->
 <!-- I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years. -->
 
-I am now a second-year master's student at [CSE Department](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81, GPA 3.98/4.0), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT in 2022 (rank 1/181, GPA 3.96/4.0), and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I am now a second-year master's student at [CSE Department](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am fortunate to be advised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT in 2022.
 
-My research focuses on theoretical machine learning, computer vision, and natural language processing. I am dedicated to uncovering the fundamental aspects of deep neural networks (DNNs) and applying these insights to real-world applications through a theoretical perspective.
+I am broadly interested in various aspects of data-centric AI, deep learning theory, and interpretability of deep models.
+<!-- Previously, I got my B.Eng. degree from HIT in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/). -->
 
 
 <!-- My long-term research goal includes:
@@ -46,16 +47,16 @@ Beyond academia, I have a rich background in the arts and sports. I've been play
 <!-- <h2>
     Miscellaneous: More about me
 </h2> -->
-👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me via email, Wechat, or Twitter (X).
+
+👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to contact me!
+
+<!-- Beyond academia, I've been playing the piano for over 10 years and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes. -->
 
 
 
-Beyond academia, I've been playing the piano for over 10 years and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes.
-
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
+<!-- <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: black; background-color: #d9edf7; border-color: #bce8f1;">
 Currently, I'm actively seeking <span style='color:#ea3891'>research internships</span>, open to both on-site and remote opportunities. Additionally, I am exploring <span style='color:#ea3891'>Ph.D. positions</span> for Fall 2025 to further my academic pursuits.
-</div>
+</div> -->
 
 
 
