@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am now a second-year master's student at [CSE Department](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am fortunate to be advised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT in 2022.
 
-I am broadly interested in various aspects of data-centric AI, deep learning theory, and interpretability of deep models.
+I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable machine learning.
 <!-- Previously, I got my B.Eng. degree from HIT in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/). -->
 
 
