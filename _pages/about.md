@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master Student, <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>, Shanghai Jiao Tong University
+subtitle: Phd Student, School of Artificial Intelligence, Shanghai Jiao Tong University
 
 
 profile:
@@ -25,9 +25,9 @@ social: true  # includes social icons at the bottom of the page
 </h2> -->
 <!-- I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years. -->
 
-I am now a second-year master's student at [CSE Department](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am fortunate to be advised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT in 2022.
+I am now an incoming PhD student at the School of Artificial Intelligence at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), fortunate to be advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/). I was a master's student in the [CSE Department](https://www.cs.sjtu.edu.cn/en/), where I was truly grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I received my B.Eng. degree from HIT in 2022.
 
-I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable machine learning.
+I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable machine learning. I am now mainly focusing on Dataset Distillation and In-context Learning in foundation models.
 <!-- Previously, I got my B.Eng. degree from HIT in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/). -->
 
 
