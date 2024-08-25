@@ -20,12 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- <h2>
-    Background
-</h2> -->
-<!-- I am now a second-year master's student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/) from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (rank 2/81), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Previously, I got my B.Eng. degree from HIT (rank 1/181) in 2022, and enjoyed wonderful time during my internship at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and [Tsinghua University](https://www.tsinghua.edu.cn/en/) in my undergraduate years. -->
-
-I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), fortunate to be advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable machine learning. I am now mainly focusing on Distillation/Pruning and In-context Learning in foundation models.
+I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), fortunate to be advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable AI.
 
 Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
 
