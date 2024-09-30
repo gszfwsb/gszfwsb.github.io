@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), fortunate to be advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). I am broadly interested in various aspects of data-centric AI, deep learning theory, and explainable AI.
+I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), fortunate to be advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). I am broadly interested in various aspects of data-centric AI, deep learning theory (especially in foundation models), and explainable machine learning.
 
 Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
 
