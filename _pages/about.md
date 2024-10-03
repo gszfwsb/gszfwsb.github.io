@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), fortunate to be advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). I am broadly interested in various aspects of data-centric AI, deep learning theory (especially in foundation models), and explainable machine learning. Currently, I also closely work with Prof. [Zhuoran Yang](https://zhuoranyang.github.io/) at Statistics and Data Science at [Yale University](https://statistics.yale.edu/).
 
-Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
+Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from Harbin Institute of Technology in 2022.
 
 <b>👋 Collaboration.</b> I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to <a href='mailto:gszfwsb@gmail.com'> contact me</a>!
 
