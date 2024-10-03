@@ -24,13 +24,7 @@ I am a PhD student at the School of Artificial Intelligence (SAI) at [Shanghai J
 
 Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
 
-
-
 <b>👋 Collaboration.</b> I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to <a href='mailto:gszfwsb@gmail.com'> contact me</a>!
-
-<!-- <h2>
-    Miscellaneous: More about me
-</h2> -->
 
 <!-- linke to cv -->
 <mark> <a href='/assets/pdf/cv_en_shaobowang.pdf'> <b>English CV</b> </a> </mark> | <mark> <a href='/assets/pdf/cv_zh_shaobowang.pdf'> <b>中文简历</b></a> </mark>
